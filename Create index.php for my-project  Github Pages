@@ -1,9 +1,5 @@
 <?php
 
-
-/**
- * First thing: Do the minimal initializations required for b2evo:
- */
 require_once dirname(__FILE__).'/conf/_config.php';
 
 require_once $inc_path.'_main.inc.php';
