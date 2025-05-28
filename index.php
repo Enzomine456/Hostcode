@@ -1,26 +1,5 @@
 <?php
-/**
- * This is the main public interface file. It will try to:
- *   1. redirect any TinyURL to it's Canonical URL
- *   2. detect which Collection is being requested
- *   3. if none, fall back to display the default collection
- *   4. if none, fall back to display default.php
- *   5. if none, display the admin page.
- *
- * ---------------------------------------------------------------------------------------------------------------
- * IF YOU ARE READING THIS IN YOUR WEB BROWSER, IT MEANS THAT YOU DID NOT LOAD THIS FILE THROUGH A PHP WEB SERVER.
- * TO GET STARTED, GO TO THIS PAGE: http://b2evolution.net/man/getting-started
- * ---------------------------------------------------------------------------------------------------------------
- *
- * This file is NOT mandatory. You may replace it with one or several stub files.
- * More info: {@link http://b2evolution.net/man/stub-file}
- *
- * b2evolution - {@link http://b2evolution.net/}
- * Released under GNU GPL License - {@link http://b2evolution.net/about/gnu-gpl-license}
- * @copyright (c)2003-2020 by Francois Planque - {@link http://fplanque.com/}
- *
- * @package main
- */
+
 
 /**
  * First thing: Do the minimal initializations required for b2evo:
