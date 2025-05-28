@@ -1,21 +1,7 @@
 <?php
 /**
  * This is the main front-office interface file! This will we displayed if you haven't configured
- * a default collection to display.
- *
- * This file is NOT mandatory. You can delete it if you have configured a default collection.
- *
- * b2evolution - {@link http://b2evolution.net/}
- * Released under GNU GPL License - {@link http://b2evolution.net/about/gnu-gpl-license}
- * @copyright (c)2003-2020 by Francois Planque - {@link http://fplanque.com/}
- *
- * @package evoskins
- * @subpackage noskin
- */
-
-/**
- * First thing: Do the minimal initializations required for b2evo:
- */
+ * a default collection to displays 
 require_once dirname(__FILE__).'/conf/_config.php';
 
 /**
