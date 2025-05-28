@@ -7,7 +7,7 @@
  * clients just assume xmlrpc.php to be at the root level.
  *
  * b2evolution - {@link http://b2evolution.net/}
- * Released under GNU GPL License - {@link http://b2evolution.net/about/gnu-gpl-license}
+ * Released under GNU GPL License - {@lin/gnu-gpl-license}
  * @copyright (c)2003-2020 by Francois Planque - {@link http://fplanque.com/}
  */
 
